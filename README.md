@@ -1,6 +1,6 @@
 ![cat](https://i.imgur.com/AFnbTlg.gif)
 
-
+### Yo, my name is Henry and I'm a software developer student.
 
 <!--
 ### Hi there 👋
