@@ -4,5 +4,5 @@
 </div>
 <hr class="rounded">
 <div>
-	<p align="center"><img src="https://i.imgur.com/xbWceCZ.png"></p>
+	<p align="center"><img src="hhttps://cdn.upload.systems/uploads/RblvwDXV.png"></p>
 </div>
