@@ -6,3 +6,4 @@
 <div>
 	<p align="center"><img src="https://cdn.upload.systems/uploads/RblvwDXV.png"></p>
 </div>
+<hr class="rounded">
